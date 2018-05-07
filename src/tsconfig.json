@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "allowJs": true,
+        "lib": [
+            "dom",
+            "es5",
+            "scripthost",
+            "es2015" 
+        ]
+    }
+}
