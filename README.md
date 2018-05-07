@@ -1,6 +1,6 @@
-# Covalent QuickStart
+# Covalent QuickStart with Electron
 
-Quickstart App with @covalent packages
+Quickstart App with @covalent packages using Electron (Atom Shell)
 
 ## Setup
 
